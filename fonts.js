@@ -1,2 +1,8 @@
 let answ = true;
-document.body.style.display = 'contents';
+function vis() {
+			document.body.style.display = 'contents';
+}
+
+function wf() {
+  
+}
